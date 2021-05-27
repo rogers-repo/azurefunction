@@ -8,8 +8,8 @@
 		<version>2.3.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.stackroute</groupId>
-	<artifactId>uber-service-azure</artifactId>
+	<groupId>com.roger</groupId>
+	<artifactId>test-service-azure</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>uber</name>
 	<description>Project for Uber Application</description>
